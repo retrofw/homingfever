@@ -1,0 +1,4 @@
+title=Homing Fever
+description=HomingFever port
+exec=/home/retrofw/games/homingfever/homingfever.elf
+clock=600
