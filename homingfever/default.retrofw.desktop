@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Homing Fever
+Comment=Addictive missile dodging game
+Exec=homingfever.dge
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=homingfever
+X-OD-Manual=homingfever.man.txt
+Categories=games;
+
